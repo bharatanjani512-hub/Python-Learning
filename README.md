@@ -1,4 +1,4 @@
-# 🐍 Python Learning Repository
+# Python Learning Repository
 
 Welcome to my Python Learning Repository!
 
@@ -6,26 +6,26 @@ This repository documents my journey of learning Python from the fundamentals to
 
 ---
 
-## 📚 Topics Covered
+## Topics Covered
 
 ### Basics
 
-- ✅ Variables & Data Types
-- ✅ Operators
-- ✅ Strings
-- ✅ Collections
-- ✅ Conditional Statements
-- ✅ Loops
-- ✅ Functions
-- ✅ Recursion
-- ✅ Object-Oriented Programming (OOP)
-- ✅ Exception Handling
-- ✅ File Handling
-- ✅ Advanced Concepts
+- Variables & Data Types
+- Operators
+- Strings
+- Collections
+- Conditional Statements
+- Loops
+- Functions
+- Recursion
+- Object-Oriented Programming (OOP)
+- Exception Handling
+- File Handling
+- Advanced Concepts
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 Python-Learning/
@@ -40,7 +40,7 @@ Python-Learning/
 
 ---
 
-## 🎯 Learning Goals
+## Learning Goals
 
 - Learn Python fundamentals
 - Practice problem-solving
@@ -50,7 +50,7 @@ Python-Learning/
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python 3
 - Visual Studio Code
@@ -59,18 +59,18 @@ Python-Learning/
 
 ---
 
-## 📈 Progress
+##  Progress
 
 | Section | Status |
 |---------|--------|
-| Python Basics | ✅ Completed |
-| Mini Projects | 🔄 In Progress |
-| Practicals | 🔄 Ongoing |
-| Data Science | ⏳ Upcoming |
+| Python Basics | Completed ✅ |
+| Mini Projects | In Progress 🔄 |
+| Practicals | Ongoing 🔄 |
+| Data Science | Upcoming ⏳ |
 
 ---
 
-## 📌 Author
+## Introduction
 
 **Anjani Bharat Chauhan**
 
